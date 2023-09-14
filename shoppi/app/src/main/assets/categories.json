@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "category_id": "fashion-female",
+      "label": "여성",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/96be98be-34b2-4e24-969d-abd44009cea1",
+      "updated": false
+    },
+    {
+      "category_id": "fashion-male",
+      "label": "남성",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/7eafb9bc-4a4e-4a08-a86c-73b025d72ffb",
+      "updated": false
+    },
+    {
+      "category_id": "kids",
+      "label": "유아동",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/c955a7bd-e4c8-4195-9072-d7ba3f8fd4b9",
+      "updated": false
+    },
+    {
+      "category_id": "electronics",
+      "label": "가전/디지털",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/3c49078a-4015-4242-85bb-7d9f61f3b905",
+      "updated": false
+    },
+    {
+      "category_id": "furniture",
+      "label": "가구/인테리어",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/6dd89933-fdc0-424a-92be-594948baeaf6",
+      "updated": true
+    },
+    {
+      "category_id": "sports",
+      "label": "스포츠/레저",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/ef9eae11-9ef9-483e-b98e-0e890a4dcee7",
+      "updated": false
+    },
+    {
+      "category_id": "books",
+      "label": "도서/음반",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/583bf99d-a6c3-4c18-97a2-4baee6d2dc84",
+      "updated": false
+    },
+    {
+      "category_id": "pets",
+      "label": "반려동물",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/e7008d4a-f4d2-4418-aa44-84087e7310f4",
+      "updated": false
+    },
+    {
+      "category_id": "car",
+      "label": "자동차",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/ecf2ab4b-0d71-4250-8281-4784bb48cfde",
+      "updated": false
+    },
+    {
+      "category_id": "fancy-goods",
+      "label": "잡화",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/02658798-aa13-4421-8d9e-cfdecf3de137",
+      "updated": false
+    },
+    {
+      "category_id": "food",
+      "label": "식품",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/52a6a41c-e8f0-43e8-813f-858b746208f5",
+      "updated": false
+    },
+    {
+      "category_id": "beauty",
+      "label": "뷰티",
+      "thumbnail_image_url": "https://github.com/sohyun127/udemy/assets/98076050/7b349d67-0174-48d7-97f7-928ecd9b7527",
+      "updated": true
+    }
+  ]
+}
